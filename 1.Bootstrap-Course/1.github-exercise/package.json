@@ -1,0 +1,20 @@
+{
+  "name": "1.-github-exercise",
+  "version": "1.0.0",
+  "description": "Project with node & git",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Ralph2g/Hong-Kong-Uni-React---Angular.git)"
+  },
+  "author": "Rafael Garcia Garcia",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
